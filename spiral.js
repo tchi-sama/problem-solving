@@ -15,3 +15,26 @@ var removeDuplicates = function(nums) {
     return nums;
 };
 console.log(removeDuplicates([1,2,3,3]))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+loop(4,(i)=>{
+    console.log("hello world");
+})
+
+
+
+console.log( and(true,false,true))
+console.log( or(true,false,false))
